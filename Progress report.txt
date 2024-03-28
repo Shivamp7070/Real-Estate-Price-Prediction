@@ -1,0 +1,46 @@
+Progress report (5%) – due 11:59pm on April 6
+
+The progress report is a chance for you to take stock of how far you have come and to reflect on
+whether or not you are comfortable with the substance or scope of your final project. The format
+of the progress report will be a Jupyter notebook that should be uploaded to the private github
+repository you have set up for your team. 
+
+  It should include:
+● Project introduction: an introduction that discusses the data you are analyzing, and the
+question or questions you are investigating.
+
+● Any changes: a discussion whether your scope has changed since the check-in
+proposal slides. What did you aim to do that you will not do and what have you added to
+the project?
+
+● Data cleaning: show clearly how you cleaned your data.
+
+● Exploratory data analysis: explain what your data looks like (words are fine, but
+visualizations are often better). Include any interesting issues or preliminary conclusions
+you have about your data.
+
+● At least one visualization that tests an interesting hypothesis, along with an
+explanation about why you thought this was an interesting hypothesis to investigate.
+
+● At least one ML analysis on your dataset, along with a baseline comparison and an
+interpretation of the result that you obtain.
+
+● Reflection: a discussion of the following:
+  ○ What is the hardest part of the project that you’ve encountered so far?
+  ○ What are your initial insights?
+  ○ Are there any concrete results you can show at this point? If not, why not?
+  ○ Going forward, what are the current biggest problems you’re facing?
+  ○ Do you think you are on track with your project? If not, what parts do you need to
+    dedicate more time to?
+  ○ Given your initial exploration of the data, is it worth proceeding with your project,
+      why? If not, how are you going to change your project and why do you think it’s
+      better than your current results?
+
+● Next steps: What you plan to accomplish in the next month and how you plan to
+evaluate whether your project achieved the goals you set for it.
+
+What you need to submit: A PDF of your Jupyter notebook to Gradescope which includes a
+link to the notebook located in your repository (the two notebooks should look the same).
+How this part will be graded: the amount of progress that has been made, clarity of
+exposition. There will be a grade assigned to the whole progress report that everyone receives,
+and a grade assigned to you individually based on your github code contributions.
